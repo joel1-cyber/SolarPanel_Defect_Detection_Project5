@@ -1,0 +1,9 @@
+names:
+- Bird-drop
+- Dust
+- Electrical-Damage
+- Physical-Damage
+- Snow-Covered
+nc: 5
+train: C:/Users/joeli/OneDrive/Documents/PYTHON/GuviProject5(DL)/SolarPanelDetectionOrganized/images/train
+val: C:/Users/joeli/OneDrive/Documents/PYTHON/GuviProject5(DL)/SolarPanelDetectionOrganized/images/val
